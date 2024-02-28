@@ -172,6 +172,8 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 | PixelRec | Short Video | Seq Rec/CF Rec | PixelRec is a large dataset of cover images collected from a short video recommender system, comprising approximately 200 million user image interactions, 30 million users, and 400,000 video cover images. The texts and other aggregated attributes of videos are also included. | [link](https://github.com/westlake-repl/PixelRec) |
 | KuaiSAR | Video | Search and Rec | KuaiSAR contains genuine search and recommendation behaviors of 25,877 users, 6,890,707 items, 453,667 queries, and 19,664,885 actions within a span of 19 days on the Kuaishou app | [link](https://kuaisar.github.io) |
 | Tenrec | Video, Article | General | Tenrec is a large-scale benchmark dataset for recommendation systems. It contains around 5 million users and 140 million interactions. | [link](https://tenrec0.github.io/) |
+| NineRec | News, Video, Ads， Images | Seq Rec/CF Rec/Cross-domain Rec | NineRec is a large multimodal recommendation dataset of collected from five famous feeds platform, comprising one pre-trained source dataset and 9 diverse target datasets. Both text and high-resoultion images are included. | [link](https://github.com/westlake-repl/NineRec) |
+| MicroLens | Short videos | Seq Rec/CF Rec | MicroLens is a large short video recommendation dataset of collected from a short video platform, comprising 1 bilion interactions, 3 million users and 1 million short videos. Text, images, audio and images  are all included. | [link](https://github.com/westlake-repl/MicroLens) |
 
 
 
